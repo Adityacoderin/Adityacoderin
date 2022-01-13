@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityacoderin
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...In class 7
+- 🌱 I’m currently learning ...Java and CSS
 - 💞️ I’m looking to collaborate on ...Google
 - 📫 How to reach me ...through email
 
